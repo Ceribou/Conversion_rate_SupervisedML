@@ -1,4 +1,4 @@
-![alt text](./img/newsletter.webp)
+
 
 # Conversion rate
 
@@ -16,3 +16,5 @@ To complete this project :
 - Train at least one model that predicts the conversions and evaluate its performances (f1, confusion matrices)
 - Make at least one submission to the leaderboard 
 - Analyze your best model's parameters and try to make some recommendations to improve the conversion rate in the future
+
+![alt text](./img/newsletter.webp)
